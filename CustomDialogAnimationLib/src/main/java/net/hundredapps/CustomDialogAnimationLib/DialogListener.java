@@ -24,7 +24,7 @@ public interface DialogListener extends Parcelable {
 }
 
 /**
- * 指定されてなければこのクラスを使用する
+ * this module use this class if not appointed.
  */
 class DefaultDialogListener implements DialogListener {
     public static final String TAG = DefaultDialogListener.class.getSimpleName();

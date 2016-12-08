@@ -7,6 +7,7 @@ import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
+import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentActivity;
 import android.view.View;
 import android.view.Window;
@@ -15,7 +16,7 @@ import android.widget.Button;
 import android.widget.TextView;
 
 /**
- * common DialogFragment. call from activity.
+ * common DialogFragment. call from activity or fragment.
  * this class use DialogListener(interface).
  * implements DialogListener(is positive button and negative button event) in activity.
  * Created by yamashu on 2016/11/19.
@@ -25,7 +26,8 @@ public class CustomDialogAnimation extends android.support.v4.app.DialogFragment
 
     public static class Builder {
 
-        final FragmentActivity mActivity; // required
+        FragmentActivity mActivity = null; // required
+        Fragment mFragment = null; // required
 
         String mTitle; // required
 
@@ -52,6 +54,12 @@ public class CustomDialogAnimation extends android.support.v4.app.DialogFragment
             mMessage = message;
         }
 
+        public Builder(@NonNull final Fragment fragment, @NonNull final String title, @NonNull final String message) {
+            mFragment = fragment;
+            mTitle = title;
+            mMessage = message;
+        }
+        
         public Builder listener(@NonNull final DialogListener listener) {
             mDialogListener = listener;
             return this;
@@ -99,7 +107,11 @@ public class CustomDialogAnimation extends android.support.v4.app.DialogFragment
 
             final CustomDialogAnimation f = new CustomDialogAnimation();
             f.setArguments(args);
-            f.show(mActivity.getSupportFragmentManager(), mTag);
+            if (mActivity != null) {
+                f.show(mActivity.getSupportFragmentManager(), mTag);
+            } else {
+                f.show(mFragment.getFragmentManager(), mTag);
+            }
         }
     }
 
@@ -166,7 +178,7 @@ public class CustomDialogAnimation extends android.support.v4.app.DialogFragment
         return dialog;
     }
 
-    private void setDialogEvent(Dialog dialog) {
+    protected void setDialogEvent(Dialog dialog) {
         dialog.findViewById(R.id.positive_button).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
