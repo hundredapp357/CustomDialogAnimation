@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/shu/workspace/CustomDialogAnimation/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/shu/workspace/CustomDialogAnimation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_7a2b01c1376bb08c86310d0c9c5d21c814a29e58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shu/workspace/CustomDialogAnimation/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/shu/workspace/CustomDialogAnimation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_8118859a802a3a5827a869356f766f31891ebc8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/shu/workspace/CustomDialogAnimation/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_8d5e65941c0673e66b145b943862a05def76cb7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shu/workspace/CustomDialogAnimation/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8537376adf60aa23bc10fb1e99e2d8c639b73b43">
+        <dex dex="/Users/shu/workspace/CustomDialogAnimation/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2462347c9481b97769e299bbe31726ffc55e2906/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shu/workspace/CustomDialogAnimation/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/shu/workspace/CustomDialogAnimation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_b33ab216f78770ca7c3b2d5524c04d28a38b8f5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shu/workspace/CustomDialogAnimation/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/shu/workspace/CustomDialogAnimation/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_94143edc3ab52a59fcc63598594615e4fb8692cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shu/workspace/CustomDialogAnimation/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/shu/workspace/CustomDialogAnimation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_280bb26fcae5c7ed140d50eeb98da63de70d169d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shu/workspace/CustomDialogAnimation/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5223de79a18e9a8549e46c17350ec0660402913">
+        <dex dex="/Users/shu/workspace/CustomDialogAnimation/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bffaa46d115a6b13f3e4e14de4f0d0e50e549029/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shu/workspace/CustomDialogAnimation/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/shu/workspace/CustomDialogAnimation/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_3f11fcec670bfbbc5f81a04a262a3aa883a29337/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shu/workspace/CustomDialogAnimation/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/shu/workspace/CustomDialogAnimation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_0d13d0266a760bff5975e39c619632b98febbd9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shu/workspace/CustomDialogAnimation/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/shu/workspace/CustomDialogAnimation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_a08536b6df27ff99ee87f25f6998810a10d55743/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shu/workspace/CustomDialogAnimation/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/shu/workspace/CustomDialogAnimation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_92418f30aaa304a542a35b4470551fad49b8756a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shu/workspace/CustomDialogAnimation/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/shu/workspace/CustomDialogAnimation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_f9781d85a220820857e07fc1bc38cb04abd68916/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shu/workspace/CustomDialogAnimation/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/shu/workspace/CustomDialogAnimation/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_d43750cbb4260a312108b5f64d81f79addb21bad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shu/workspace/CustomDialogAnimation/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/shu/workspace/CustomDialogAnimation/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_b4b8d938feecf96771bd66d2e973999d2133e64d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shu/workspace/CustomDialogAnimation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/shu/workspace/CustomDialogAnimation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_6bf3c89be912e8f88e88fae783250b1495f94384/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shu/workspace/CustomDialogAnimation/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/shu/workspace/CustomDialogAnimation/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_d2ad94c5127cede563664f7689e3b2bb96770c66/classes.dex" />
+    </item>
+
+</items>

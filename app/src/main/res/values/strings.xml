@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CustomDialogAnimation</string>
+
+    <!-- common dialog view -->
+    <string name="title">title</string>
+    <string name="message">message</string>
+    <string name="positive_button_label">test label</string>
+    <string name="negative_button_label">cancel</string>
+
+</resources>

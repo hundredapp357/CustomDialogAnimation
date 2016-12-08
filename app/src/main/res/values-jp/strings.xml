@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CustomDialogAnimation</string>
+
+    <!-- common dialog view -->
+    <string name="title">テストタイトル</string>
+    <string name="message">テストメッセージ</string>
+    <string name="positive_button_label">ポジティブボタン</string>
+    <string name="negative_button_label">キャンセル</string>
+
+</resources>
