@@ -9,7 +9,6 @@
 
 
 
-<code>
   new CustomDialogAnimation.Builder(MainActivity.this, getString(R.string.title), getString(R.string.message))
       .animation(true)
       .listener(eventListener())
@@ -17,9 +16,16 @@
       .positive(getString(R.string.positive_button_label))
       .negative(getString(R.string.negative_button_label))
       .show();
-</code>
+
 
 ##how to add in your project  
   git submodule add --force https://github.com/hundredapp357/CustomDialogAnimation CustomDialogAnimation
   git submodule init
   git submodule update
+  
+## how to submodule delete
+  git submodule deinit -f path/to/CommonDialogFragment  
+  git rm -f  path/to/CommonDialogFragment  
+
+
+
