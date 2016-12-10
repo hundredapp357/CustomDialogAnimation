@@ -88,7 +88,7 @@
         android:layout_alignParentTop="true"
         android:background="@drawable/close_button"
         android:text="×"
-        android:textColor="#9acd32"
+        android:textColor="#fdba8c"
         />
 
 </RelativeLayout>
