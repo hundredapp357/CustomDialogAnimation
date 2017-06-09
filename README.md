@@ -5,7 +5,7 @@
  * call from activity and fragment.
  * use DialogListener(interface).
  * implements DialogListener(is positive button and negative button event) in activity or fragment.  
- Created by yamashu on 2016/11/19.
+ Created by yamaichi57 on 2016/11/19.
 
 
 
