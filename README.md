@@ -1,6 +1,6 @@
 # This module can set a customized layout, and animation is possible. 
 
-##usage  
+## usage  
 
  * call from activity and fragment.
  * use DialogListener(interface).
@@ -18,7 +18,7 @@
       .show();
 
 
-##how to add in your project  
+## how to add in your project  
   git submodule add --force https://github.com/hundredapp357/CustomDialogAnimation CustomDialogAnimation  
   git submodule init  
   git submodule update  
